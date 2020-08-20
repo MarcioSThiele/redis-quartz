@@ -1,5 +1,5 @@
-com/redis/demo/RedisConfig.class
-com/redis/demo/Controller.class
-com/redis/demo/Student.class
+com/redis/demo/repositories/StudentRepository.class
+com/redis/demo/beans/RedisConfig.class
 com/redis/demo/DemoApplication.class
-com/redis/demo/StudentRepository.class
+com/redis/demo/controller/Controller.class
+com/redis/demo/entities/Student.class

@@ -1,5 +1,7 @@
-package com.redis.demo;
+package com.redis.demo.controller;
 
+import com.redis.demo.entities.Student;
+import com.redis.demo.repositories.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
